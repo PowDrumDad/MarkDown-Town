@@ -49,3 +49,4 @@ This file tracks all changes made to the Markdown Town tutorial project.
 - **CREATE**: `c:\Users\netru\Documents\dev\MarkDown-Town\Markdown-Tutorial\Lesson8\lesson.md` - Lesson 8 content.
 - **CREATE**: `c:\Users\netru\Documents\dev\MarkDown-Town\Markdown-Tutorial\Lesson8\quiz.md` - Lesson 8 quiz.
 - **CREATE**: `c:\Users\netru\Documents\dev\MarkDown-Town\Markdown-Tutorial\Lesson8\solution.md` - Lesson 8 quiz and practice solutions.
+- **UPDATE**: `c:\Users\netru\Documents\dev\MarkDown-Town\README.md` - Added "How to Run This Tutorial" section.
