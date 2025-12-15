@@ -33,3 +33,8 @@ This file tracks all changes made to the Markdown Town tutorial project.
 - **CREATE**: `c:\Users\netru\Documents\dev\MarkDown-Town\Markdown-Tutorial\Lesson5\quiz.md` - Lesson 5 quiz.
 - **CREATE**: `c:\Users\netru\Documents\dev\MarkDown-Town\Markdown-Tutorial\Lesson5\practice.md` - Lesson 5 practice exercise.
 - **CREATE**: `c:\Users\netru\Documents\dev\MarkDown-Town\Markdown-Tutorial\Lesson5\solution.md` - Lesson 5 quiz and practice solutions.
+- **CREATE**: `c:\Users\netru\Documents\dev\MarkDown-Town\Markdown-Tutorial\Lesson6` - Directory for Lesson 6.
+- **CREATE**: `c:\Users\netru\Documents\dev\MarkDown-Town\Markdown-Tutorial\Lesson6\lesson.md` - Lesson 6 content.
+- **CREATE**: `c:\Users\netru\Documents\dev\MarkDown-Town\Markdown-Tutorial\Lesson6\quiz.md` - Lesson 6 quiz.
+- **CREATE**: `c:\Users\netru\Documents\dev\MarkDown-Town\Markdown-Tutorial\Lesson6\practice.md` - Lesson 6 practice exercise.
+- **CREATE**: `c:\Users\netru\Documents\dev\MarkDown-Town\Markdown-Tutorial\Lesson6\solution.md` - Lesson 6 quiz and practice solutions.
