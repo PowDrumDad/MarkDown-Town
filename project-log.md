@@ -38,3 +38,10 @@ This file tracks all changes made to the Markdown Town tutorial project.
 - **CREATE**: `c:\Users\netru\Documents\dev\MarkDown-Town\Markdown-Tutorial\Lesson6\quiz.md` - Lesson 6 quiz.
 - **CREATE**: `c:\Users\netru\Documents\dev\MarkDown-Town\Markdown-Tutorial\Lesson6\practice.md` - Lesson 6 practice exercise.
 - **CREATE**: `c:\Users\netru\Documents\dev\MarkDown-Town\Markdown-Tutorial\Lesson6\solution.md` - Lesson 6 quiz and practice solutions.
+- **CREATE**: `c:\Users\netru\Documents\dev\MarkDown-Town\Markdown-Tutorial\Lesson7` - Directory for Lesson 7.
+- **CREATE**: `c:\Users\netru\Documents\dev\MarkDown-Town\Markdown-Tutorial\Lesson7\lesson.md` - Lesson 7 content.
+- **CREATE**: `c:\Users\netru\Documents\dev\MarkDown-Town\Markdown-Tutorial\Lesson7\quiz.md` - Lesson 7 quiz.
+- **CREATE**: `c:\Users\netru\Documents\dev\MarkDown-Town\Markdown-Tutorial\Lesson7\practice.md` - Lesson 7 practice exercise.
+- **CREATE**: `c:\Users\netru\Documents\dev\MarkDown-Town\Markdown-Tutorial\Lesson7\solution.md` - Lesson 7 quiz and practice solutions.
+- **CREATE**: `c:\Users\netru\Documents\dev\MarkDown-Town\Markdown-Tutorial\Lesson7\data.csv` - Sample data for Lesson 7.
+- **CREATE**: `c:\Users\netru\Documents\dev\MarkDown-Town\Markdown-Tutorial\Lesson7\generate_report.py` - Starter Python script for Lesson 7.
