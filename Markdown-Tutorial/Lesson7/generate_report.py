@@ -23,6 +23,8 @@ def generate_report():
 
             # TODO 3: Add a bullet point with the species and count.
             # Example: "- Sockeye: 1520"
+            
+            # TODO: Implement loop body - see lesson instructions
             pass
 
     with open('salmon_report.md', 'w') as report_file:

@@ -23,7 +23,7 @@ A comprehensive evaluation was performed on the MarkDown-Town repository, which 
 ### 1. Python IndentationError in `generate_report.py`
 
 **File:** `Markdown-Tutorial/Lesson7/generate_report.py`  
-**Line:** 28  
+**Line:** 26  
 **Error Type:** IndentationError  
 **Severity:** 🔴 Critical
 
